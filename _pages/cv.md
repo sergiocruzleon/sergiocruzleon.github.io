@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dr. phil. nat. in Chemistry, MPI of Biophysics and Goethe University Frankfurt, Frankfurt, Germany, 2021 (expected)
+* M.Sc. in Physics, University of Stuttgart, Stuttgart, Germany, 2015
+* B.Sc. in Physics, University of Los Andes, Bogotá, Colombia 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Since 2017: Doctoral Researcher, Max Planck Institute of Biophysics
+  * Department of Theoretical Biophysics
+  * Supervisor: Dr. Nadine Schwierz
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant

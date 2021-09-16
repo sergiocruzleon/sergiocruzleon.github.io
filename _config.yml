@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sergio Cruz-León"
 title_separator          : "-"
 name                     : &name "Sergio Cruz-León"
-description              : &description "Computational physicist,/n working with molecular simulations /n Doctoral candidate "
+description              : &description "Computational physicist working with molecular simulations. Doctoral candidate "
 url                      : https://sergiocruzleon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sergiocruzleon/sergiocruzleon.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sergio Cruz-León"
-  avatar           : ""_images/foto.png"
+  avatar           : "_images/foto.png"
   bio              : "Computational physicist,/n working with molecular simulations /n Doctoral candidate"
   location         : "Frankfurt am Main, Germany"
   employer         : 

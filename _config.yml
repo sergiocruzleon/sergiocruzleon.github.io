@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sergio Cruz-León"
-  avatar           : "images/foto.png"
+  avatar           : "/images/foto.jpg"
   bio              : "Computational physicist,/n working with molecular simulations /n Doctoral candidate"
   location         : "Frankfurt am Main, Germany"
   employer         : 

@@ -20,12 +20,17 @@ Work experience
 * Since 2017: Doctoral Researcher, Max Planck Institute of Biophysics
   * Department of Theoretical Biophysics
   * Supervisor: Dr. Nadine Schwierz
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - 2017: Lecturer: Physics. Escuela Colombiana de Ingeniería Julio Garavito
+  * Departament of Natural Sciences, Bogotá, Colombia.
+
+* 2014 - 2015: Scientific Assistant, University of Stuttgart
+  * Institute of Computational Physics, Stuttgart, Germany
+  * Supervisors: Prof. Dr. Christian Holm and apl. Prof. Dr. Maria Fyta
+
+* 2018 -2013 : Engineering assistant. Ingeniería de Estructuras y Construcción.
+  * Bogotá, Colombia
+  * Manager: Ing. Raúl Camacho
   
 Skills
 ======

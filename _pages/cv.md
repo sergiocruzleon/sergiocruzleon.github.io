@@ -28,7 +28,7 @@ Work experience
   * Institute of Computational Physics, Stuttgart, Germany
   * Supervisors: Prof. Dr. Christian Holm and apl. Prof. Dr. Maria Fyta
 
-* 2018 -2013 : Engineering assistant. <b>Ingeniería de Estructuras y Construcción<b/>
+* 2018 -2013 : Engineering assistant. <b>Ingeniería de Estructuras y Construcción</b>
   * Bogotá, Colombia
   * Manager: Ing. Raúl Camacho
   

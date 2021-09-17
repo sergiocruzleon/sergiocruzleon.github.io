@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Coarse-Grained Double-Stranded RNA Model from Quantum-Mechanical Calculations"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: ''
+date: 2018-07-25
+venue: 'J. Phys. Chem. B'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Sergio Cruz-León, Alvaro Vázquez-Mayagoitia, Simone Melchionna, Nadine Schwierz, and Maria Fyta*. (2010). &quot;Coarse-Grained Double-Stranded RNA Model from Quantum-Mechanical Calculations.&quot; <i>J. Phys. Chem. B</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://pubs.acs.org/doi/10.1021/acs.jpcb.8b03566)
+
+Recommended citation: Cruz-León, S, Vázquez-Mayagoitia, A., Melchionna, S. Schwierz, N., and Fyta M.. (2018). "Coarse-Grained Double-Stranded RNA Model from Quantum-Mechanical Calculations." <i>J. Phys. Chem. B</i>. 1(2).

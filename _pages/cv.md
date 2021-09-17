@@ -32,21 +32,31 @@ Work experience
   * Bogotá, Colombia
   * Manager: Ing. Raúl Camacho
   
-Skills
+Awards and Recognitions
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019: PhD studies fellowship: Ministry of Science and Technology, Colombia. “Convocatoria de doctorados en el exterior 2019”
+* 2013: MSc. studies fellowship: “Colfuturo, talento orgullo Colombiano” (“Talent pride of Colombia”).
+* 2006: Undergrad fellowship: Funding of the Department of Education of Bogot ́a: best students in the city.
+
+* Travel awards
+  * 2019: RNA Society. For traveling and participation in the 24th Annual Meeting of the RNA Society. Krakow, Poland 
+  * 2019: Wilhelm und Else Heraeus-Foerderprogramms. For traveling and participation in the annual meeting of the German Society of Physics. Regensburg, Germany.
+  * 2018: Wilhelm und Else Heraeus-Foerderprogramms. For traveling and participation in the annual meeting of the German Society of Physics. Berlin, Germany.
+  * 2015: Hands-on workshop density-functional theory and beyond: First-principles simulations of molecules and materials, Berlin,
+Germany
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Synergistic Activities
+======
+* Since January 2021: Co-organizer and member of the scientific committee of [MMCol](https://mmcolombia.github.io/equipo.html), an interdisciplinary group of Colombian researchers interested in disseminating and discussing molecular modeling.
+
+*Co-developer of the webpage for the collaborative research center: [Molecular Principles of RNA-based Regulation](https://rna-research.de/). 
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -59,6 +69,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

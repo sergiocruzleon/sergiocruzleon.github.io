@@ -1,0 +1,12 @@
+---
+title: "The molecular origin of ion specific effects in RNA"
+collection: talks
+type: "Talk"
+permalink: /talks/2019-06-talk-IRTG
+venue: "IRTG 902 Summer School"
+date: 2019-06
+location: "Bayreuth, Germany"
+---
+
+[IRTG 902 webpage](https://rna-research.de/)
+

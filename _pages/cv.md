@@ -57,15 +57,4 @@ Synergistic Activities
 
 * Co-developer of the webpage for the collaborative research center: [Molecular Principles of RNA-based Regulation](https://rna-research.de/). 
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   

@@ -11,4 +11,3 @@ citation: 'Sergio Cruz-León and Nadine Schwierz. (2020). &quot;Hofmeister Serie
 
 [Download paper here](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.0c00851)
 
-Recommended citation: Cruz-León, Sergio and Schwierz, Nadine. (2020). "Hofmeister Series for Metal-Cation–RNA Interactions: The Interplay of Binding Affinity and Exchange Kinetics" <i>Langmuir</i>. 36, 21, 5979–5989.

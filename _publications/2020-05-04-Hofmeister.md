@@ -1,7 +1,7 @@
 ---
 title: "Hofmeister Series for Metal-Cation–RNA Interactions: The Interplay of Binding Affinity and Exchange Kinetics"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-05-04-Hofmeister
 excerpt: ''
 date: 2020-05-04
 venue: 'Langmuir'

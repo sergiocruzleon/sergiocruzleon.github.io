@@ -1,7 +1,7 @@
 ---
 title: "Coarse-Grained Double-Stranded RNA Model from Quantum-Mechanical Calculations"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2018-07-25-JPhysChem
 excerpt: ''
 date: 2018-07-25
 venue: 'J. Phys. Chem. B'

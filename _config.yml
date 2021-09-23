@@ -85,7 +85,7 @@ author:
   bio              : "Computational physicist working with molecular simulations. Doctoral candidate"
   location         : "Frankfurt am Main, Germany"
   employer         : 
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kuV-wzcAAAAJ&hl=es&oi=ao"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Sergio-Cruz-Leon" # example: "https://www.researchgate.net/profile/yourprofile"

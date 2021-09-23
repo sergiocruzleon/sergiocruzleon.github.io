@@ -53,7 +53,7 @@ Publications
 
 Synergistic Activities
 ======
-* Since January 2021: Co-organizer and member of the scientific committee of [MMCol](https://mmcolombia.github.io/equipo.html), an interdisciplinary group of Colombian researchers interested in disseminating and discussing molecular modeling.
+* Since January 2021: Co-organizer and member of the scientific committee of  [MMCol](https://mmcolombia.github.io/equipo.html), an interdisciplinary group of Colombian researchers interested in disseminating and discussing molecular modeling.
 
 * Co-developer of the webpage for the collaborative research center: [Molecular Principles of RNA-based Regulation](https://rna-research.de/). 
 

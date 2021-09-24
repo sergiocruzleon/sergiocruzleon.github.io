@@ -11,14 +11,14 @@ location: "Bogotá, Colombia"
 I was a Physics lecturer at [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/) between 2016 and 2017. I taught the following courses:
 
 
-FIMF (2016I, 2016II and 2017I)
+FIMF (2016I, 2016II, and 2017I)
 ======
 Physics courses for first-year engineering students.
 
-FFIS (2016I, 2016II and 2017I)
+FFIS (2016I, 2016II, and 2017I)
 ======
 Course about the basics of physics for first-year engineering students.
 
-Experimental Physics on Mechanics and Fluids
+FIML (2016I, 2016II, and 2017I)
 ======
 Experimental physics courses for first- and second-year engineering students.

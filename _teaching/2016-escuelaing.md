@@ -1,7 +1,7 @@
 ---
 title: "Lecturer: Physics"
 collection: teaching
-type: "Undergraduate course"
+type: "Lecturer: Physics"
 permalink: /teaching/2016-escuelaing
 venue: "Escuela Colombiana de Ingeniería Julio Garavito, Department of Natural Sciences"
 date: 2016-01-01

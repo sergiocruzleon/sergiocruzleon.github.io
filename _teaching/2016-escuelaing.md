@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer: Physics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-escuelaing
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Escuela Colombiana de Ingeniería Julio Garavito, Department of Natural Sciences"
+date: 2016-01-01
+location: "Bogotá, Colombia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a Physics lecturer at [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/) between 2016 and 2017. I taught the following courses:
 
-Heading 1
-======
 
-Heading 2
+FIMF (2016I, 2016II and 2017I)
 ======
+Physics courses for first-year engineering students.
 
-Heading 3
+FFIS (2016I, 2016II and 2017I)
 ======
+Course about the basics of physics for first-year engineering students.
+
+Experimental Physics on Mechanics and Fluids
+======
+Experimental physics courses for first- and second-year engineering students.

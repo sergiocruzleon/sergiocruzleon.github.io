@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Since 2022: Postdoctoral Researcher, <b>Max Planck Institute of Biophysics</b>
+* Since 01.2022: Postdoctoral Researcher, <b>Max Planck Institute of Biophysics</b>
   * Department of Theoretical Biophysics
   * Supervisor: Prof. Dr. Gerhard Hummer
 

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* <b>Dr. phil. nat. in Chemistry</b>, MPI of Biophysics and Goethe University Frankfurt, Frankfurt, Germany, 2022
-* <b>M.Sc. in Physics</b>, University of Stuttgart, Stuttgart, Germany, 2015
-* <b>B.Sc. in Physics</b>, University of Los Andes, Bogotá, Colombia 2012
+* <b>Dr. phil. nat. in Chemistry</b>, MPI of Biophysics and Goethe University Frankfurt, Frankfurt, Germany, 01.2022
+* <b>M.Sc. in Physics</b>, University of Stuttgart, Stuttgart, Germany, 07.2015
+* <b>B.Sc. in Physics</b>, University of Los Andes, Bogotá, Colombia 08.2012
 
 Work experience
 ======
